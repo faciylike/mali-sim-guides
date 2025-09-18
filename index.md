@@ -74,3 +74,10 @@ layout: default
     *   关闭App后台刷新。
     *   下载离线地图（谷歌/Maps.me）。
     *   使用流量监控工具
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Mali eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/mali-data-plans)
